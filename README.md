@@ -304,31 +304,65 @@ Também devem ser realizados testes manuais de navegação, onboarding, pesquisa
 
 **Link:** https://github.com/keyladayanaj/MobilityPlus.git
 
-## 14. Evidências e apresentação
+## 14. Evidências e apresentação do aplicativo
 
-As capturas de tela do aplicativo devem ser adicionadas ao diretório `docs/screenshots/`, contemplando:
+As imagens abaixo registram as telas do Mobility+ durante a execução no navegador. Elas documentam a jornada de entrada, exploração de locais, personalização de acessibilidade, registro de barreiras e planejamento de rotas.
 
-- Splash Screen.
-- Onboarding.
-- Tela inicial.
-- Menu principal.
-- Pesquisa de locais.
-- Detalhes de um local.
-- Rotas.
-- Perfil.
-- Estados de carregamento e erro da API.
+### 14.1 Splash Screen
 
-**Vídeo pitch:** [colocar link aqui]
-
----
-
-**Mobility+ — Mobilidade inclusiva para todos.**
-
-*Projeto acadêmico desenvolvido para a Global Solution FIAP.*
+<img width="766" height="983" alt="image" src="https://github.com/user-attachments/assets/67c51e42-9d3b-4ef6-9607-ec30eeedf913" />
 
 
-### Navegação ativa
+### 14.2 Onboarding
 
-Após calcular uma rota, o usuário pode selecionar **Iniciar navegação**. O aplicativo solicita a permissão de localização do navegador/dispositivo, acompanha a posição GPS durante o percurso, centraliza o mapa na posição atual e apresenta a próxima instrução de direção fornecida pelas etapas do OSRM. A navegação pode ser encerrada pelo próprio usuário.
+**Apresentação de rotas acessíveis**
 
-**Limitação:** o trajeto é calculado pelo perfil de direção de carro do OSRM. As opções de evitar escadas e priorizar rampas ainda não alteram o algoritmo de roteamento. A navegação não detecta automaticamente obstáculos e não garante acessibilidade do percurso.
+<img width="777" height="984" alt="image" src="https://github.com/user-attachments/assets/b3671a80-d46e-422b-9478-ef48ee7d1eb6" />
+
+
+**Descoberta de locais inclusivos**
+
+<img width="770" height="983" alt="image" src="https://github.com/user-attachments/assets/98e4d126-3407-4129-a825-8d3c62bd9b48" />
+
+**Colaboração com a cidade**
+
+<img width="778" height="986" alt="image" src="https://github.com/user-attachments/assets/2becafc2-eaf3-462e-a3cb-40898dcfe443" />
+
+
+### 14.3 Escolha de acesso
+
+<img width="775" height="984" alt="image" src="https://github.com/user-attachments/assets/74e74e33-2a75-495e-967e-d828544c207f" />
+
+### 14.4 Tela inicial
+
+<img width="767" height="983" alt="image" src="https://github.com/user-attachments/assets/e8f4d2f1-5869-4908-9df8-976bfbbf74f6" />
+
+### 14.5 Pesquisa de locais
+
+<img width="772" height="978" alt="image" src="https://github.com/user-attachments/assets/14b6afb6-e619-42a3-95d2-0dc5666f775e" />
+
+
+### 14.6 Detalhes do local
+
+<img width="774" height="984" alt="image" src="https://github.com/user-attachments/assets/6dca23c3-c079-4700-8a59-23978e5a059d" />
+
+### 14.7 Perfil
+
+<img width="775" height="986" alt="image" src="https://github.com/user-attachments/assets/441f75df-c8ba-432c-8a70-4c0027a1235d" />
+
+
+### 14.8 Preferências de acessibilidade
+
+<img width="780" height="986" alt="image" src="https://github.com/user-attachments/assets/5516525f-48bb-4890-aeda-c65130f98736" />
+
+### 14.9 Reportar barreira
+
+<img width="772" height="984" alt="image" src="https://github.com/user-attachments/assets/5e76db3a-4ca9-4860-a23d-ffa5ad2471f3" />
+
+### 14.10 Planejamento de rotas
+
+<img width="780" height="984" alt="image" src="https://github.com/user-attachments/assets/630cf6a4-02fc-4b44-977e-b27592eb1791" />
+
+### 14.11 Navegação ativa
+
+<img width="778" height="989" alt="image" src="https://github.com/user-attachments/assets/41198844-a183-4fc5-8ae9-012da64e3a09" />
